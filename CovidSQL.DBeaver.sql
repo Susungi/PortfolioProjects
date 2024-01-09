@@ -111,7 +111,7 @@ select *, (RollingPeopleVaccinated/Population)*100
 from #PercentPopulationVaccinated
 
 
-creating 
+
 
 
 
